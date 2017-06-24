@@ -15,7 +15,7 @@ sp_get_menu($id,$menu_root_ul_id,$filetpl,$foldertpl,$ul_class,$li_class,$menu_r
 `$ul_class`:内部ul标签的class属性值  
 `$li_class`:内部li标签的class属性值  
 `$menu_root_ul_class`:菜单根节点ul标签的class属性值  
-`$showlevel`:菜单根节点ul标签的class属性值
+`$showlevel`:显示层级数
 `$dropdown`:含有子菜单的li标签的class属性值,用于控制多级菜单的折叠
 
 
